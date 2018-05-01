@@ -36,7 +36,7 @@ namespace vinteum
 
 				if(jogador < 22)
 				{
-					Console.Write ("Deseja continuar? s/n");
+					Console.Write ("Deseja continuar? s/n - ");
 					continuar = Console.ReadLine ();
 				}
 
