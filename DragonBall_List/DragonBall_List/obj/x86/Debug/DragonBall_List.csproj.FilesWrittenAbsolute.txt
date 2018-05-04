@@ -1,0 +1,5 @@
+/home/sergio/Documentos/MonoDevelop/DragonBall_List/DragonBall_List/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sergio/Documentos/MonoDevelop/DragonBall_List/DragonBall_List/bin/Debug/DragonBall_List.exe.mdb
+/home/sergio/Documentos/MonoDevelop/DragonBall_List/DragonBall_List/bin/Debug/DragonBall_List.exe
+/home/sergio/Documentos/MonoDevelop/DragonBall_List/DragonBall_List/obj/x86/Debug/DragonBall_List.exe
+/home/sergio/Documentos/MonoDevelop/DragonBall_List/DragonBall_List/obj/x86/Debug/DragonBall_List.exe.mdb
