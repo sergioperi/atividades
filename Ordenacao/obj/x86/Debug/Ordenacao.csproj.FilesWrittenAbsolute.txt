@@ -1,5 +1,0 @@
-/home/sergio/Documentos/MonoDevelop/Ordenacao/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/sergio/Documentos/MonoDevelop/Ordenacao/bin/Debug/Ordenacao.exe.mdb
-/home/sergio/Documentos/MonoDevelop/Ordenacao/bin/Debug/Ordenacao.exe
-/home/sergio/Documentos/MonoDevelop/Ordenacao/obj/x86/Debug/Ordenacao.exe
-/home/sergio/Documentos/MonoDevelop/Ordenacao/obj/x86/Debug/Ordenacao.exe.mdb

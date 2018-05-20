@@ -1,5 +1,0 @@
-/media/sergio/Arquivos/UNOPAR/projetos/vinteum/vinteum/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/media/sergio/Arquivos/UNOPAR/projetos/vinteum/vinteum/bin/Debug/vinteum.exe.mdb
-/media/sergio/Arquivos/UNOPAR/projetos/vinteum/vinteum/bin/Debug/vinteum.exe
-/media/sergio/Arquivos/UNOPAR/projetos/vinteum/vinteum/obj/x86/Debug/vinteum.exe
-/media/sergio/Arquivos/UNOPAR/projetos/vinteum/vinteum/obj/x86/Debug/vinteum.exe.mdb
