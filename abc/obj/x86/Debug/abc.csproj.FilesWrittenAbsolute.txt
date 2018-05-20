@@ -1,0 +1,5 @@
+/home/sergio/Projetos Mono/abc/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sergio/Projetos Mono/abc/bin/Debug/abc.exe.mdb
+/home/sergio/Projetos Mono/abc/bin/Debug/abc.exe
+/home/sergio/Projetos Mono/abc/obj/x86/Debug/abc.exe
+/home/sergio/Projetos Mono/abc/obj/x86/Debug/abc.exe.mdb
