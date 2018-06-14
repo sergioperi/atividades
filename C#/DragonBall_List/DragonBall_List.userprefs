@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="DragonBall_List/DragonBall_List.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragonBall_List/Program.cs">
+    <Files>
+      <File FileName="DragonBall_List/Program.cs" Line="16" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

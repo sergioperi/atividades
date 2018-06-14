@@ -1,0 +1,6 @@
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/obj/x86/Debug/OrdenacaoForm.gtk-gui.gui.stetic
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/bin/Debug/OrdenacaoForm.exe.mdb
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/bin/Debug/OrdenacaoForm.exe
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/obj/x86/Debug/OrdenacaoForm.exe
+/home/sergio/Documentos/MonoDevelop/OrdenacaoForm/obj/x86/Debug/OrdenacaoForm.exe.mdb
